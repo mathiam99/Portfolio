@@ -1,0 +1,66 @@
+#contact{
+    text-align: center;
+    color: #333;
+}
+
+#contact::before{
+    content: "";
+    display: inline;
+    border: 3px solid #fcd703;
+    background-color: #fcd703;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+
+.contact{
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.contact > div {
+    text-align: center;
+    padding: 2%;
+    width: 25%;
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px #aaa;
+    color: #333;
+}
+
+.contact > div > p{
+    font-size: 16pt;
+}
+
+.contact > div > img {
+    width: 50px;
+}
+
+.contact > div > p > a{
+    color: #333;
+    text-decoration: none;
+}
+
+.contact > div > p > a:hover{
+    color: #fcd703;
+    transition: 0.7s;
+}
+
+
+
+@media screen and (max-width: 768px){
+    .contact{
+        flex-direction: column;
+        padding: 5%;
+    }
+
+    .contact > div{
+        width: auto;
+        margin-top: 5%;
+    }
+    
+    .contact > div > p{
+        width: auto;
+        font-size: 14pt;
+        margin-top: 5%;
+    }
+}
