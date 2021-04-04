@@ -13,7 +13,7 @@ const Header = () => {
                     <a href="/">ACCUEIL</a>
                     <a href="#tech">TECHNOLOGIES</a>
                     <a href="#experience">EXPERIENCES PROFESIONNELLES</a>
-                    <a href="#project">PROJETS</a>
+                    <a href="#formation">FORMATION</a>
                     <a href="#contact">CONTACTS</a>
                 </nav>
             </div>

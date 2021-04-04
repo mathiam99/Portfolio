@@ -1,9 +1,9 @@
-#project{
+#formation{
     text-align: center;
     color: #333;
 }
 
-#project::before{
+#formation::before{
     content: "";
     display: inline;
     border: 3px solid #fcd703;

@@ -4,7 +4,7 @@ import './project.css';
 const Project = () => {
     return ( 
         <React.Fragment>
-            <h2 id="project">Projets Réalisés</h2>
+            <h2 id="formation">Etudes et Formations</h2>
         </React.Fragment>
      );
 }
