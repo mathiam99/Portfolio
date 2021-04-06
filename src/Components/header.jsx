@@ -10,11 +10,11 @@ const Header = () => {
                     <img src={logo} alt=""/>
                 </div>
                 <nav className="navlinks">
-                    <a href="/">ACCUEIL</a>
-                    <a href="#tech">TECHNOLOGIES</a>
-                    <a href="#experience">EXPERIENCES PROFESIONNELLES</a>
-                    <a href="#formation">FORMATION</a>
-                    <a href="#contact">CONTACTS</a>
+                    <a href="/">Accueil</a>
+                    <a href="#tech">Technologies</a>
+                    <a href="#experience">Experience professionnelles</a>
+                    <a href="#formation">Formation</a>
+                    <a href="#contact">Contact</a>
                 </nav>
             </div>
         </React.Fragment>
