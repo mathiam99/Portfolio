@@ -10,6 +10,7 @@ import mysql from '../Assets/mysql.svg';
 import python from '../Assets/python.svg';
 import django from '../Assets/django.png';
 import reactjs from '../Assets/reactjs.svg';
+import vuejs from '../Assets/vuejs.png';
 import bootstrap from '../Assets/bootstrap.png';
 import tailwindcss from '../Assets/tailwindcss.svg';
 import r from '../Assets/R.svg';
@@ -34,6 +35,7 @@ const LandingPage = () => {
                             <img src={js} alt=""/>
                             <img src={nodejs} alt=""/>
                             <img src={reactjs} alt=""/>
+                            <img src={vuejs} alt=""/>
                             <img src={php} alt=""/>
                             <img src={mysql} alt=""/>
                             <img src={mongodb} alt=""/>

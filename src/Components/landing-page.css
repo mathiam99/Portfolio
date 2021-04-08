@@ -29,6 +29,15 @@
     align-self: center;
 }
 
+.right h2::before{
+    background-image: url("../Assets/processor.svg");
+    margin-right: 5px;
+    background-size: 22px 22px;
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    content: "";
+}
 .tech > img{
     width: 50%;
     /*filter: grayscale(100%);*/

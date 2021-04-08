@@ -4,12 +4,13 @@
 }
 
 #contact::before{
-    content: "";
-    display: inline;
-    border: 3px solid #fcd703;
-    background-color: #fcd703;
-    border-radius: 10px;
+    background-image: url("../Assets/contact.svg");
     margin-right: 5px;
+    background-size: 25px 25px;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    content: "";
 }
 
 .contact{

@@ -4,10 +4,11 @@
 }
 
 #formation::before{
-    content: "";
-    display: inline;
-    border: 3px solid #fcd703;
-    background-color: #fcd703;
-    border-radius: 10px;
+    background-image: url("../Assets/diploma.svg");
     margin-right: 5px;
+    background-size: 22px 22px;
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    content: "";
 }
