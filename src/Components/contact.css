@@ -28,6 +28,11 @@
     color: #333;
 }
 
+.contact > div:hover{
+    background-color: rgb(211, 227, 241);
+    transition: 1s;
+}
+
 .contact > div > p{
     font-size: 12pt;
 }
