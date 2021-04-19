@@ -23,7 +23,7 @@ const LandingPage = () => {
         <React.Fragment>
             <div className="landing-page">
                 <div className="left">
-                    <h1>Salut 👋🏾, moi c'est Mathiam</h1>
+                    <h1>Salut, moi c'est Mathiam 🚀</h1>
                     <p>Je m'appelle Mathiam Mbow, j'ai 22 ans et je suis passioné du developpement web, de la conception de base de données, de la programmation et de l'analyse de données.</p>
                     <img src={tech} alt="" />
                 </div>

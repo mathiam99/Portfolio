@@ -12,3 +12,9 @@
     height: 22px;
     content: "";
 }
+
+.light{
+    font-size: 40pt;
+    text-align: center;
+    color: #999;
+}
