@@ -5,7 +5,7 @@ const Project = () => {
     return ( 
         <React.Fragment>
             <h2 id="formation">Etudes et Formations</h2>
-            <div className="timeline" data-aos="fade-up">
+            <div className="timeline">
                 
                 <div className="timeline-body">
                     <div className="time">Juillet 2020</div>
