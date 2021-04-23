@@ -17,6 +17,7 @@
     margin-top: 4%;
     display: flex;
     justify-content: space-evenly;
+    cursor: pointer;
 }
 
 .contact > div {
@@ -29,7 +30,7 @@
 }
 
 .contact > div:hover{
-    background-color: rgb(211, 227, 241);
+    background-color: rgb(243, 243, 243);
     transition: 1s;
 }
 

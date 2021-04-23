@@ -5,7 +5,6 @@ import css from '../Assets/css.svg';
 import js from '../Assets/js.svg';
 import nodejs from '../Assets/nodejs.svg';
 import php from '../Assets/php.svg';
-import laravel from '../Assets/laravel.png';
 import mysql from '../Assets/mysql.svg';
 import python from '../Assets/python.svg';
 import django from '../Assets/django.png';
@@ -39,7 +38,6 @@ const LandingPage = () => {
                             <img src={php} alt=""/>
                             <img src={mysql} alt=""/>
                             <img src={mongodb} alt=""/>
-                            <img src={laravel} alt=""/>
                             <img src={python} alt=""/>
                             <img src={django} alt=""/>
                             <img src={bootstrap} alt=""/>

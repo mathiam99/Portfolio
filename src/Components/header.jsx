@@ -12,9 +12,9 @@ const Header = () => {
                 <nav className="navlinks">
                     <a href="/">Accueil</a>
                     <a href="#tech">Technologies</a>
-                    <a href="#experience">Experience professionnelles</a>
-                    <a href="#formation">Formation</a>
-                    <a href="#contact">Contact</a>
+                    <a href="#experience">Experiences professionnelles</a>
+                    <a href="#formation">Formations</a>
+                    <a href="#contact">Contacts</a>
                 </nav>
             </div>
         </React.Fragment>
