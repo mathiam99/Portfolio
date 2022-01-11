@@ -11,7 +11,7 @@ const Contact = () => {
             <div className="contact">
                 <div>
                     <img src={phone} alt=""/>
-                    <p>T&eacute;l&eacute;phone : +221 77 856 73 76</p>
+                    <p>Téléphone : +221 77 856 73 76</p>
                     </div>
                 <div>
                     <img src={mail} alt=""/>
